@@ -13,6 +13,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kennethd21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kennethd21&icon=10&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Kennethd21&icon=10&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
