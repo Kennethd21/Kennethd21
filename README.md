@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=kennethd21&theme=github-dark&mode=dark" alt="kennethd21's GitHub Stats" width="100%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kennethd21&theme=github-dark&mode=dark" alt="kennethd21's GitHub Stats" width="90%" />
 </p>
 
 <p align="center">
