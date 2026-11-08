@@ -21,10 +21,8 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=kennethd21&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=kennethd21&theme=github-dark&mode=dark" alt="Jaush DSouza's GitHub Trophies" />
-</p>
-<picture>
+
+<picture align= "center">
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
   <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
