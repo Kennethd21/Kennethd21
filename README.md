@@ -1,6 +1,4 @@
 [![kennethd21.runs-on.dev](https://runs-on.dev/banner/kennethd21)](https://kennethd21.runs-on.dev)
-# 💫 About Me:
-🔭 I’m currently working on: AI-powered applications, innovative product ideas, and open-source contributions.<br><br>👯 I’m looking to collaborate on: Open-source projects, AI/ML applications, and impactful web development projects.<br><br>🤝 I’m looking for help with: Building scalable applications, exploring system design, getting jobs, internships and improving my development workflow.<br><br>🌱 I’m currently learning: Data Structures & Algorithms, Go, AI/ML, and full-stack development.<br><br>💬 Ask me about: C++, Python, UI/UX Design, Product Development, and turning ideas into real-world applications.<br><br>⚡ Fun fact: I've watched Brooklyn Nine-Nine six times and still haven't gotten tired of it. Noice! 🥑
 
 
 ## 🌐 Socials:
@@ -10,6 +8,9 @@
 
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+# 💫 About Me:
+🔭 I’m currently working on: AI-powered applications, innovative product ideas, and open-source contributions.<br><br>👯 I’m looking to collaborate on: Open-source projects, AI/ML applications, and impactful web development projects.<br><br>🤝 I’m looking for help with: Building scalable applications, exploring system design, getting jobs, internships and improving my development workflow.<br><br>🌱 I’m currently learning: Data Structures & Algorithms, Go, AI/ML, and full-stack development.<br><br>💬 Ask me about: C++, Python, UI/UX Design, Product Development, and turning ideas into real-world applications.<br><br>⚡ Fun fact: I've watched Brooklyn Nine-Nine six times and still haven't gotten tired of it. Noice! 🥑
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -23,10 +24,11 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/highlights?username=kennethd21&theme=github-dark&mode=dark" alt="Jaush DSouza's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark" alt="kennethd21's Activity Graph" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
+</picture>
 
 
 
@@ -54,16 +56,11 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=kennethd21&theme=github-dark&mode=dark&style=snake" />
-</picture>
+
 
 
 
 <div align="center">
   <!---->
 </div>
-
-<p align="center"><sub>Jaush DSouza · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+    
