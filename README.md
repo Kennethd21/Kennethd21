@@ -1,20 +1,17 @@
-[![kennethd21.runs-on.dev](https://runs-on.dev/banner/kennethd21)](https://kennethd21.runs-on.dev)
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/jaushdsouza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaushdsouza@gmail.com) 
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jaush DSouza</h1>
 
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on: AI-powered applications, innovative product ideas, and open-source contributions.<br><br>👯 I’m looking to collaborate on: Open-source projects, AI/ML applications, and impactful web development projects.<br><br>🤝 I’m looking for help with: Building scalable applications, exploring system design, getting jobs, internships and improving my development workflow.<br><br>🌱 I’m currently learning: Data Structures & Algorithms, Go, AI/ML, and full-stack development.<br><br>💬 Ask me about: C++, Python, UI/UX Design, Product Development, and turning ideas into real-world applications.<br><br>⚡ Fun fact: I've watched Brooklyn Nine-Nine six times and still haven't gotten tired of it. Noice! 🥑
 
+[![kennethd21.runs-on.dev](https://runs-on.dev/banner/kennethd21)](https://kennethd21.runs-on.dev)
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=kennethd21&theme=github-dark&mode=dark" alt="kennethd21's GitHub Stats" width="49%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kennethd21&theme=github-dark&mode=dark" alt="kennethd21's GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
@@ -52,7 +49,6 @@
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/jaushdsouza" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:jaushdsouza@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
 
 
 
