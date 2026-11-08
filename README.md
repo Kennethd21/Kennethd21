@@ -4,8 +4,10 @@
 
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<br> 
 ## 💫 About Me:
 🔭 I’m currently working on: AI-powered applications, innovative product ideas, and open-source contributions.<br><br>👯 I’m looking to collaborate on: Open-source projects, AI/ML applications, and impactful web development projects.<br><br>🤝 I’m looking for help with: Building scalable applications, exploring system design, getting jobs, internships and improving my development workflow.<br><br>🌱 I’m currently learning: Data Structures & Algorithms, Go, AI/ML, and full-stack development.<br><br>💬 Ask me about: C++, Python, UI/UX Design, Product Development, and turning ideas into real-world applications.<br><br>⚡ Fun fact: I've watched Brooklyn Nine-Nine six times and still haven't gotten tired of it. Noice! 🥑
+<br>
 
 [![kennethd21.runs-on.dev](https://runs-on.dev/banner/kennethd21)](https://kennethd21.runs-on.dev)
 
